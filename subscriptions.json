@@ -2,10 +2,45 @@
     "maintenance": false,
     "key1": {
         "status": "active",
-        "expiry": "2027-12-31"
+        "expiry": "2026-08-16T10:00:00Z"
     },
     "key2": {
-        "status": "banned",
-        "expiry": "2025-01-01"
+        "status": "active",
+        "expiry": "2026-08-22T10:00:00Z"
+    },
+    "key3": {
+        "status": "active",
+        "expiry": "2026-08-16T12:00:00Z",
+        "code": "PS_ZEUS_001_CVB100093"
+    },
+    "key4": {
+        "status": "active",
+        "expiry": "2026-08-17T10:00:00Z",
+        "code": "PS_ZEUS_002_CVB100093"
+    },
+    "key5": {
+        "status": "active",
+        "expiry": "2026-08-18T10:00:00Z",
+        "code": "PS_ZEUS_003_CVB100093"
+    },
+    "key6": {
+        "status": "active",
+        "expiry": "2026-08-19T10:00:00Z",
+        "code": "PS_ZEUS_004_CVB100093"
+    },
+    "key7": {
+        "status": "active",
+        "expiry": "2026-08-20T10:00:00Z",
+        "code": "PS_ZEUS_005_CVB100093"
+    },
+    "key8": {
+        "status": "active",
+        "expiry": "2026-08-21T10:00:00Z",
+        "code": "PS_ZEUS_006_CVB100093"
+    },
+    "key9": {
+        "status": "active",
+        "expiry": "2026-08-21T22:00:00Z",
+        "code": "PS_ZEUS_007_CVB100093"
     }
 }

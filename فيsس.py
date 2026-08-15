@@ -10,8 +10,25 @@ import webbrowser
 
 
 GITHUB_RAW_BASE = "https://github.com/lm9011109t-pixel/Facebook-/raw/refs/heads/main/"
-webbrowser.open('https://t.me/ali313eme')
+import time
+import webbrowser
+
+# ألوان ANSI
+GREEN = "\033[92m"
+YELLOW = "\033[93m"
+RED = "\033[91m"
+BOLD = "\033[1m"
+RESET = "\033[0m"
+
 webbrowser.open('https://t.me/R7Aih1')
+
+time.sleep(3)
+
+input(f"{BOLD}{YELLOW}اضغط Enter للمتابعة...{RESET}")
+
+print(f"{BOLD}{RED}عليك الاشتراك بالقناة للمتابعة{RESET}")
+
+webbrowser.open('https://t.me/ali313eme')
 G = "\x1b[38;5;93m"
 R = "\x1b[38;5;93m"
 W = "\x1b[38;5;15m"

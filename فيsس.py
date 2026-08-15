@@ -11,6 +11,7 @@ import webbrowser
 
 GITHUB_RAW_BASE = "https://github.com/lm9011109t-pixel/Facebook-/raw/refs/heads/main/"
 webbrowser.open('https://t.me/ali313eme')
+webbrowser.open('https://t.me/R7Aih1')
 G = "\x1b[38;5;93m"
 R = "\x1b[38;5;93m"
 W = "\x1b[38;5;15m"
@@ -95,7 +96,6 @@ versn ='2.0'
 xlinex = (f"{R}━"*56)
 version ='2.0'
 xlinex = (f"{R}━"*56)
-webbrowser.open('https://t.me/ali313eme')
 logo = f"""
 {R}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠈⠉⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 {R}⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿

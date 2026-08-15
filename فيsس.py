@@ -109,21 +109,16 @@ logo = f"""
 {R}⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠐⡀⢉⠉⠀⠠⠀⢉⣉⠀⡜⠀⠀⠀⠀⣿⣿⣿⣿⣿
 {R}⣿⣿⣿⣿⣿⣿⠿⠁⠀⠀⠀⠘⣤⣭⣟⠛⠛⣉⣁⡜⠀⠀⠀⠀⠀⠛⠿⣿⣿⣿
 {R}⡿⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⡀⠀⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉
-{R}╭━━━┳━━━╮
-{R}┃╭━╮┃╭━╮┃
-{R}┃╰━╯┃╰━━╮
-{R}┃╭━━┻━━╮┃
-{R}┃┃╱╱┃╰━╯┃
-{R}╰╯╱╱╰━━━╯
+
 {xlinex}
-{W}  DEVELOPER {xpxx} PS{G}-{W}
+{W}  DEVELOPER {xpxx} PS+ zeuy{G}-{W}
 {W}  STATUS    {xpxx} Premium
 {W}  VERSION   {xpxx} V{G}/{W}{version}
 {xlinex}
-{R}⫷⫸ 𝐷𝐸𝑉 𝑃𝑆 | @p7s7s ⫷⫸
+{R}⫷⫸ 𝐷𝐸𝑉 𝑃𝑆 | @p7s7s ⫷ zeuy + @R7_36 ⫸
 {xlinex}
 {xp} FUTURES  {xpxx} FILE{G}〤{W}CLONE
-{xp} DEV {xpxx} PS ~ p7s7s
+{xp} DEV {xpxx} PS ~ p7s7s + zeuy + R7_36
 {xp} TODAYS   {xpxx} {__date__}
 {xlinex}"""
 class __PS__:

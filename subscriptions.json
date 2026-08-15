@@ -1,0 +1,11 @@
+{
+    "maintenance": false,
+    "key1": {
+        "status": "active",
+        "expiry": "2027-12-31"
+    },
+    "key2": {
+        "status": "banned",
+        "expiry": "2025-01-01"
+    }
+}

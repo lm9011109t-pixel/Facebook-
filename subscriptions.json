@@ -1,39 +1,39 @@
 {
     "maintenance": false,
-    "PS_ZEUS_001_CVB100093": {
+    "PS_ZEUS_01_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-16"
+        "expiry": "2026-09-2"
     },
     "PS_Z_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-17"
+        "expiry": "2026-09-1"
     },
-    "PS_ZEUS_003_CVB100093": {
+    "PS_ZEUS_03_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-18"
+        "expiry": "2026-08-30"
     },
-    "PS_ZEUS_004_CVB100093": {
+    "PS_ZEUS_04_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-19"
+        "expiry": "2026-08-29"
     },
-    "PS_ZEUS_005_CVB100093": {
+    "PS_ZEUS_05_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-20"
+        "expiry": "2026-08-28"
     },
     "PS_ZEUS_006_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-21"
+        "expiry": "2026-08-27"
     },
-    "PS_ZEUS_007_CVB100093": {
+    "PS_ZEUS_07_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-22"
+        "expiry": "2026-08-26"
     },
-    "PS_ZEUS_008_CVB100093": {
+    "PS_ZEUS_08_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-22"
+        "expiry": "2026-08-25"
     },
-    "PS_ZEUS_009_CVB100093": {
+    "PS_ZEUS_09_CVB100093": {
         "status": "active",
-        "expiry": "2026-08-22"
+        "expiry": "2026-08-24"
     }
 }
